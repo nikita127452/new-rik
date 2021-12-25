@@ -1,0 +1,336 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.RU{
+    background-color: darkmagenta;
+    color: white;
+    border-radius: 15%;
+}
+.header2{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0 auto;
+}
+ul{
+    list-style-type: none;
+    margin: 0; 
+
+}
+li{
+    display: inline;
+    margin-right: 10px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.yazik{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.dengi{
+    height: 45px;
+}
+.mesenger{
+    border-right: 1px solid black;
+    height: 45px;
+    border-left: 1px solid black;
+    padding-right: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.nomer{
+    height: 45px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.MAista{
+    height: 20px;
+    border-left: 1px solid black;
+    padding-right: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+.Tyru{
+    height: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.text{
+    background-color: rgb(122, 115, 115);
+}
+button{
+    background-color: crimson;
+}
+.tetx{
+    background-color: darkgray;
+}
+button .button2{
+    background-color: darkred;
+}
+.nomer2{
+    margin-left: 15px;
+}
+.kartinka1{
+    width: 100%;
+
+}
+.header3{
+    width: 1980px;
+}
+.hh{
+    width: 1980px;
+}
+.a1{
+    position: absolute;
+    width: 725px;
+    height: 102px;
+    left: 195px;
+    top: 335px;
+    color: rgb(245, 245, 245);
+}
+.podrobnei{
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    left: 200px;
+    top: 477px;
+    text-align: center;
+    color: rgb(245, 245, 245);
+    background-color: white 25%;
+}
+.a300{
+    position: absolute;
+    width: 249px;
+    height: 45px;
+    left: 199px;
+    top: 274px;
+    border: 2px solid rgb(185, 184, 184);
+    color: rgb(255, 255, 255);
+}
+.gh{
+    width: 270px;
+    height: 60px;
+    background: rgba(3, 3, 3, 0.541);
+    border: 2px solid rgb(185, 184, 184);
+}
+.ga{
+    background-color: rgb(109, 107, 107);
+    border: 2px solid rgb(128, 128, 128);
+    color: white;
+    height: 50px;
+    width: 270px;
+}
+.gs{
+    background-color: white;
+    border: 2px solid rgb(128, 128, 128);
+    color: black;
+    height: 50px;
+    width: 270px;
+}
+.skuchno{
+    color: gray;
+}
+.ruk{
+    text-align: center;
+    border-radius: 150px;
+    border:  2px dashed black;
+    width: 45px;
+    height: 45px;
+}
+.rfl{
+    text-align: center;
+    border-radius: 150px;
+    border:  2px dashed black;
+    width: 45px;
+    height: 45px;
+}
+.makslo{
+    text-align: center;
+    border-radius: 150px;
+    border:  2px dashed black;
+    width: 45px;
+    height: 45px;
+}
+.klop{
+    background-color: brown;
+}
+.klpo{
+    background-color: brown;
+}
+.gf{
+    width: 100%;
+}
+.heder4{
+    background-color: rgb(182, 182, 182);
+    height: 250px;
+    width: 1940px;
+    margin: -4px;
+    display: flex;
+    justify-content: space-around;
+}
+.operator{
+width: 600px;
+margin-left: 30px;
+}
+.skuchno{
+    width: 600px;
+    margin-left: 30px;  
+    margin-top: 15px;
+}
+.ga{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.header3{
+    width: 100%;
+}
+.gs{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.linia{
+    border-bottom: 2px solid black;
+}
+.header_top{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 30px;
+}
+.tt{
+    display: flex;
+    flex-wrap: wrap;
+}
+.jl{
+    margin-top: 20px;
+}
+.ju{
+    margin-top: 20px;
+}
+.jk{
+    margin-top: 20px;
+}
+.otels{
+    font-size: 50px;
+    margin-left: 15px;
+}
+.arow_left{
+    border: 2px solid black;
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.arow_right{
+    border: 2px solid black;
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.linia{
+    border: 0px solid black;
+    margin-top: 18px;
+    margin-left: 25px;
+}
+.lega{
+    margin-left: 25px;
+    background-color: white;
+    margin-top: 5px;
+}
+.heder_dioter{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+.chernob{
+    width: 460px;
+    height: 450px;
+    background-image: url("/img/01_Valamar-Dubrovnik-President-Beach-Night_Dean-Tosovic_Valamar_riviera_dd\ 1.png");
+}
+.iskra{
+    width: 460px;
+    height: 450px;
+    background-image: url("/img/276398231\ 2\ \(1\).png");
+}
+.chernovci{
+    background-image: url("/img/c41c4172\ 1.png");
+    width: 460px;
+    height: 450px;
+}
+.text_heder_chernob{
+    background: rgba(0, 0, 0, 0.35);
+    width: 250px;
+}
+.star_chenrob{
+    text-align: center;
+    margin-top: 40%;
+}
+.text_chernob{
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+.text_heder_iskra{
+    background: rgba(0, 0, 0, 0.35);
+    width: 250px;
+}
+.star_iskra{
+    text-align: center;
+    margin-top: 40%;  
+}
+.text_iskra{
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+.text_heder_chernovci{
+    background: rgba(0, 0, 0, 0.35);
+    width: 250px;
+}
+.star_chernovci{
+    text-align: center;
+    margin-top: 40%
+}
+.text_chernovci{
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
+.heder_main2{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 30px;
+}
+.lega2{
+    margin-left: 25px;
+    background-color: white;
+    margin-top: 5px;
+}
+.text_main2{
+    font-size: 50px;
+    margin-left: 15px;
+}
